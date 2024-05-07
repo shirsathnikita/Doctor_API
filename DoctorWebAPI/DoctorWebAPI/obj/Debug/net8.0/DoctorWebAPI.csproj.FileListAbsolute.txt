@@ -1,0 +1,9 @@
+D:\C#\ASP.Net Core\DoctorWebAPI\DoctorWebAPI\DoctorWebAPI\obj\Debug\net8.0\DoctorWebAPI.csproj.AssemblyReference.cache
+D:\C#\ASP.Net Core\DoctorWebAPI\DoctorWebAPI\DoctorWebAPI\obj\Debug\net8.0\DoctorWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ASP.Net Core\DoctorWebAPI\DoctorWebAPI\DoctorWebAPI\obj\Debug\net8.0\DoctorWebAPI.AssemblyInfoInputs.cache
+D:\C#\ASP.Net Core\DoctorWebAPI\DoctorWebAPI\DoctorWebAPI\obj\Debug\net8.0\DoctorWebAPI.AssemblyInfo.cs
+D:\C#\ASP.Net Core\DoctorWebAPI\DoctorWebAPI\DoctorWebAPI\obj\Debug\net8.0\DoctorWebAPI.csproj.CoreCompileInputs.cache
+D:\C#\ASP.Net Core\DoctorWebAPI\DoctorWebAPI\DoctorWebAPI\obj\Debug\net8.0\DoctorWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\C#\ASP.Net Core\DoctorWebAPI\DoctorWebAPI\DoctorWebAPI\obj\Debug\net8.0\DoctorWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\ASP.Net Core\DoctorWebAPI\DoctorWebAPI\DoctorWebAPI\obj\Debug\net8.0\DoctorWebAPI.RazorAssemblyInfo.cache
+D:\C#\ASP.Net Core\DoctorWebAPI\DoctorWebAPI\DoctorWebAPI\obj\Debug\net8.0\DoctorWebAPI.RazorAssemblyInfo.cs
